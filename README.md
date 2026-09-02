@@ -1,4 +1,4 @@
-## Hi there, This is Hridoy from Bangladesh👋
+## Hi there, This is Hridoy from Bangladesh, I am looking for contributors👋
 
 <!--
 **Hridoy1739/Hridoy1739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
